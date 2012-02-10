@@ -1,0 +1,1698 @@
+TAudioDiner
+v7
+r0
+t329019993.512310
+cCheck dependencies
+cProcessInfoPlistFile /Developer/Projects/AudioDiner/build/Release-iphonesimulator/AudioDiner.app/Info.plist AudioDiner-Info.plist
+cCompileXIB /Developer/Projects/AudioDiner/MainWindow.xib
+cCpResource build/Release-iphonesimulator/AudioDiner.app/AlbumCover.jpg AlbumCover.jpg
+cCpResource build/Release-iphonesimulator/AudioDiner.app/AlbumCover2.jpg AlbumCover2.jpg
+cCpResource build/Release-iphonesimulator/AudioDiner.app/Appetizer.jpg Appetizer.jpg
+cCpResource build/Release-iphonesimulator/AudioDiner.app/iPhoneIcon.jpg /Users/kevin/AudioDiner/iPhoneIcon.jpg
+cCpResource build/Release-iphonesimulator/AudioDiner.app/Logo.jpg /Users/kevin/AudioDiner/Logo.jpg
+cCpResource build/Release-iphonesimulator/AudioDiner.app/LogoSmall.jpg /Users/kevin/AudioDiner/LogoSmall.jpg
+cCpResource build/Release-iphonesimulator/AudioDiner.app/Note.jpg Note.jpg
+cCpResource build/Release-iphonesimulator/AudioDiner.app/Note2.jpg Note2.jpg
+cCpResource build/Release-iphonesimulator/AudioDiner.app/Note3.jpg Note3.jpg
+cCompileXIB /Developer/Projects/AudioDiner/Classes/AudioDinerEventTableController.xib
+cCompileXIB /Developer/Projects/AudioDiner/Classes/PicViewController.xib
+cCpResource build/Release-iphonesimulator/AudioDiner.app/Carmel2007ThatsMyDad.jpg Carmel2007ThatsMyDad.jpg
+cCompileXIB /Developer/Projects/AudioDiner/ScheduleNavController.xib
+cCompileXIB /Developer/Projects/AudioDiner/Classes/EventInfoViewController.xib
+cCompileXIB /Developer/Projects/AudioDiner/Classes/AudioViewController.xib
+cCpResource build/Release-iphonesimulator/AudioDiner.app/GoodbyeAgain.mp3 GoodbyeAgain.mp3
+cCompileXIB /Developer/Projects/AudioDiner/Classes/StoredAudioController.xib
+cCpResource build/Release-iphonesimulator/AudioDiner.app/RecordPlayer.png RecordPlayer.png
+cCpResource build/Release-iphonesimulator/AudioDiner.app/NukeTheWhales.mp3 NukeTheWhales.mp3
+cCompileXIB /Developer/Projects/AudioDiner/Classes/BigPicController.xib
+cProcessPCH /var/folders/XJ/XJjsEo29H04AWh2Xlu8Oo++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AudioDiner_Prefix-alvkdcwxfoigodbpyhtqjhewgjjy/AudioDiner_Prefix.pch.gch AudioDiner_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/Objects-normal/i386/main.o /Developer/Projects/AudioDiner/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/Objects-normal/i386/AudioDinerAppDelegate.o /Developer/Projects/AudioDiner/Classes/AudioDinerAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/Objects-normal/i386/NSString+XMLExtensions.o /Developer/Projects/AudioDiner/NSString+XMLExtensions.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/Objects-normal/i386/XMLRPCConnection.o /Developer/Projects/AudioDiner/XMLRPCConnection.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/Objects-normal/i386/XMLRPCDecoder.o /Developer/Projects/AudioDiner/XMLRPCDecoder.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/Objects-normal/i386/XMLRPCEncoder.o /Developer/Projects/AudioDiner/XMLRPCEncoder.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/Objects-normal/i386/XMLRPCExtensions.o /Developer/Projects/AudioDiner/XMLRPCExtensions.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/Objects-normal/i386/XMLRPCRequest.o /Developer/Projects/AudioDiner/XMLRPCRequest.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/Objects-normal/i386/XMLRPCResponse.o /Developer/Projects/AudioDiner/XMLRPCResponse.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/Objects-normal/i386/XMLValueDecoder.o /Developer/Projects/AudioDiner/XMLValueDecoder.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/Objects-normal/i386/AudioDinerEventTableController.o /Developer/Projects/AudioDiner/Classes/AudioDinerEventTableController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/Objects-normal/i386/PicViewController.o /Developer/Projects/AudioDiner/Classes/PicViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/Objects-normal/i386/ScheduleNavController.o /Developer/Projects/AudioDiner/Classes/ScheduleNavController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/Objects-normal/i386/EventInfoViewController.o /Developer/Projects/AudioDiner/Classes/EventInfoViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/Objects-normal/i386/AudioViewController.o /Developer/Projects/AudioDiner/Classes/AudioViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/Objects-normal/i386/StoredAudioController.o /Developer/Projects/AudioDiner/Classes/StoredAudioController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/Objects-normal/i386/AddressAnnotation.o /Developer/Projects/AudioDiner/Classes/AddressAnnotation.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/Objects-normal/i386/BigPicController.o /Developer/Projects/AudioDiner/BigPicController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/Objects-normal/i386/PicNavController.o /Developer/Projects/AudioDiner/Classes/PicNavController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Developer/Projects/AudioDiner/build/Release-iphonesimulator/AudioDiner.app/AudioDiner normal i386
+cGenerateDSYMFile /Developer/Projects/AudioDiner/build/Release-iphonesimulator/AudioDiner.app.dSYM /Developer/Projects/AudioDiner/build/Release-iphonesimulator/AudioDiner.app/AudioDiner
+cTouch /Developer/Projects/AudioDiner/build/Release-iphonesimulator/AudioDiner.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+c000000004CC1288A00000000000F34A0
+t1287727242
+s996512
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/AVFoundation.framework/Headers/AVCaptureDevice.h
+c00000000000000000000000000000000
+t2
+s0
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/AVFoundation.framework/Headers/AVCaptureInput.h
+c00000000000000000000000000000000
+t2
+s0
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/AVFoundation.framework/Headers/AVCaptureOutput.h
+c00000000000000000000000000000000
+t2
+s0
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/AVFoundation.framework/Headers/AVCaptureSession.h
+c00000000000000000000000000000000
+t2
+s0
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/AVFoundation.framework/Headers/AVCaptureVideoPreviewLayer.h
+c00000000000000000000000000000000
+t2
+s0
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/AVFoundation.framework/Headers/AVFoundation.h
+c000000004CC128840000000000000733
+t1287727236
+s1843
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/CoreGraphics.framework/Versions/A/Headers/CGAffineTransform.h
+c000000004480A0F800000000000010CE
+t1149280504
+s4302
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/CoreGraphics.framework/Versions/A/Headers/CGBase.h
+c000000004480A0F800000000000005D3
+t1149280504
+s1491
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/CoreGraphics.framework/Versions/A/Headers/CGGeometry.h
+c000000004480A0F800000000000015CD
+t1149280504
+s5581
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/CoreGraphics.framework/Versions/A/Headers/CoreGraphics.h
+c000000004486015C00000000000006DB
+t1149632860
+s1755
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/AudioToolbox.framework/Headers/AudioToolbox.h
+c000000004CC1222F0000000000000A23
+t1287725615
+s2595
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CFDate.h
+c000000004CC1219E0000000000000A15
+t1287725470
+s2581
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGAffineTransform.h
+c000000004CC121DB000000000000138E
+t1287725531
+s5006
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGBase.h
+c000000004CC121DB00000000000009E1
+t1287725531
+s2529
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGGeometry.h
+c000000004CC121DB00000000000022F0
+t1287725531
+s8944
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.h
+c000000004CC121DB00000000000004FE
+t1287725531
+s1278
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreMedia.framework/Headers/CMBase.h
+c000000004CC127F400000000000005D6
+t1287727092
+s1494
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreMedia.framework/Headers/CMSampleBuffer.h
+c000000004CC127F40000000000011A51
+t1287727092
+s72273
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreMedia.framework/Headers/CMTime.h
+c000000004CC127F40000000000006EEE
+t1287727092
+s28398
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreMedia.framework/Headers/CMTimeRange.h
+c000000004CC127F4000000000000395F
+t1287727092
+s14687
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreVideo.framework/Headers/CVPixelBuffer.h
+c000000004CC122CE0000000000005C72
+t1287725774
+s23666
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreVideo.framework/Headers/CoreVideo.h
+c000000004CC122CE00000000000004DB
+t1287725774
+s1243
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSData.h
+c000000004CC1225F0000000000001777
+t1287725663
+s6007
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSDate.h
+c000000004CC1225F00000000000006E7
+t1287725663
+s1767
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSObject.h
+c000000004CC1225F0000000000000EAD
+t1287725663
+s3757
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h
+c000000004CC1225F0000000000006506
+t1287725663
+s25862
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/MapKit.framework/Headers/MapKit.h
+c000000004CC1294D00000000000002FE
+t1287727437
+s766
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/MapKit.framework/MapKit
+c000000004CC12977000000000017E7F0
+t1287727479
+s1566704
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/CAAnimation.h
+c000000004CC1233D00000000000028F5
+t1287725885
+s10485
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/CoreAnimation.h
+c000000004CC1233D0000000000000364
+t1287725885
+s868
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004CC1233C00000000000000C4
+t1287725884
+s196
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/Availability.h
+c000000004CB3FA080000000000001ADD
+t1286863368
+s6877
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/AvailabilityMacros.h
+c000000004CB3FA08000000000000673C
+t1286863368
+s26428
+
+N/Developer/Projects/AudioDiner/AVFoundation.framework/Headers/AVAnimation.h
+c000000004D6833810000000000000701
+t1298674561
+s1793
+i<Foundation/Foundation.h>
+i<AVFoundation/AVBase.h>
+i<CoreFoundation/CFDate.h>
+
+N/Developer/Projects/AudioDiner/AVFoundation.framework/Headers/AVAsset.h
+c000000004D6833810000000000002D1C
+t1298674561
+s11548
+i<AVFoundation/AVBase.h>
+i<Foundation/Foundation.h>
+i<AVFoundation/AVAsynchronousKeyValueLoading.h>
+i<CoreGraphics/CGAffineTransform.h>
+i<ApplicationServices/../Frameworks/CoreGraphics.framework/Headers/CGAffineTransform.h>
+i<CoreMedia/CMTime.h>
+
+N/Developer/Projects/AudioDiner/AVFoundation.framework/Headers/AVAssetExportSession.h
+c000000004D6833810000000000002EB0
+t1298674561
+s11952
+i<AVFoundation/AVBase.h>
+i<Foundation/Foundation.h>
+i<CoreMedia/CMTime.h>
+i<CoreMedia/CMTimeRange.h>
+i<CoreGraphics/CoreGraphics.h>
+i<ApplicationServices/../Frameworks/CoreGraphics.framework/Headers/CoreGraphics.h>
+
+N/Developer/Projects/AudioDiner/AVFoundation.framework/Headers/AVAssetImageGenerator.h
+c000000004D6833810000000000001C9A
+t1298674561
+s7322
+i<AVFoundation/AVBase.h>
+i<Foundation/Foundation.h>
+i<CoreMedia/CMTime.h>
+i<CoreGraphics/CoreGraphics.h>
+i<ApplicationServices/../Frameworks/CoreGraphics.framework/Headers/CoreGraphics.h>
+
+N/Developer/Projects/AudioDiner/AVFoundation.framework/Headers/AVAssetReader.h
+c000000004D6833810000000000001DCB
+t1298674561
+s7627
+i<AVFoundation/AVBase.h>
+i<Foundation/Foundation.h>
+i<CoreMedia/CMTime.h>
+i<CoreMedia/CMTimeRange.h>
+i<CoreMedia/CMSampleBuffer.h>
+
+N/Developer/Projects/AudioDiner/AVFoundation.framework/Headers/AVAssetReaderOutput.h
+c000000004D68338100000000000038C7
+t1298674561
+s14535
+i<AVFoundation/AVBase.h>
+i<AVFoundation/AVVideoComposition.h>
+i<CoreMedia/CMTime.h>
+i<CoreMedia/CMSampleBuffer.h>
+
+N/Developer/Projects/AudioDiner/AVFoundation.framework/Headers/AVAssetTrack.h
+c000000004D6833810000000000001B5A
+t1298674561
+s7002
+i<AVFoundation/AVBase.h>
+i<AVFoundation/AVAsynchronousKeyValueLoading.h>
+i<AVFoundation/AVAsset.h>
+i<AVFoundation/AVAssetTrackSegment.h>
+i<CoreMedia/CMTimeRange.h>
+
+N/Developer/Projects/AudioDiner/AVFoundation.framework/Headers/AVAssetTrackSegment.h
+c000000004D6833810000000000000327
+t1298674561
+s807
+i<AVFoundation/AVBase.h>
+i<Foundation/Foundation.h>
+i<CoreMedia/CMTimeRange.h>
+
+N/Developer/Projects/AudioDiner/AVFoundation.framework/Headers/AVAssetWriter.h
+c000000004D68338100000000000038A9
+t1298674561
+s14505
+i<AVFoundation/AVBase.h>
+i<Foundation/Foundation.h>
+i<CoreMedia/CMBase.h>
+i<CoreMedia/CMTime.h>
+i<CoreMedia/CMSampleBuffer.h>
+
+N/Developer/Projects/AudioDiner/AVFoundation.framework/Headers/AVAssetWriterInput.h
+c000000004D68338100000000000051DC
+t1298674561
+s20956
+i<AVFoundation/AVBase.h>
+i<Foundation/Foundation.h>
+i<CoreMedia/CMTime.h>
+i<CoreMedia/CMSampleBuffer.h>
+i<CoreVideo/CVPixelBuffer.h>
+
+N/Developer/Projects/AudioDiner/AVFoundation.framework/Headers/AVAsynchronousKeyValueLoading.h
+c000000004D6833810000000000000991
+t1298674561
+s2449
+i<AVFoundation/AVBase.h>
+i<Foundation/Foundation.h>
+
+N/Developer/Projects/AudioDiner/AVFoundation.framework/Headers/AVAudioMix.h
+c000000004D6833810000000000001545
+t1298674561
+s5445
+i<AVFoundation/AVBase.h>
+i<Foundation/Foundation.h>
+i<CoreMedia/CMBase.h>
+i<CoreMedia/CMTime.h>
+i<CoreMedia/CMTimeRange.h>
+
+N/Developer/Projects/AudioDiner/AVFoundation.framework/Headers/AVAudioPlayer.h
+c000000004D683381000000000000145D
+t1298674561
+s5213
+i<Foundation/NSObject.h>
+i<Foundation/NSDate.h>
+i<AVFoundation/AVAudioSettings.h>
+i<Availability.h>
+
+N/Developer/Projects/AudioDiner/AVFoundation.framework/Headers/AVAudioRecorder.h
+c000000004D6833810000000000000E59
+t1298674561
+s3673
+i<Foundation/NSObject.h>
+i<Foundation/NSDate.h>
+i<AVFoundation/AVAudioSettings.h>
+i<Availability.h>
+
+N/Developer/Projects/AudioDiner/AVFoundation.framework/Headers/AVAudioSession.h
+c000000004D683381000000000000094C
+t1298674561
+s2380
+i<Foundation/NSObject.h>
+i<Foundation/NSDate.h>
+i<AvailabilityMacros.h>
+
+N/Developer/Projects/AudioDiner/AVFoundation.framework/Headers/AVAudioSettings.h
+c000000004D683381000000000000090E
+t1298674561
+s2318
+i<Foundation/NSObject.h>
+i<Availability.h>
+
+N/Developer/Projects/AudioDiner/AVFoundation.framework/Headers/AVBase.h
+c000000004D683381000000000000011A
+t1298674561
+s282
+i<Availability.h>
+
+N/Developer/Projects/AudioDiner/AVFoundation.framework/Headers/AVComposition.h
+c000000004D6833810000000000002862
+t1298674561
+s10338
+i<AVFoundation/AVBase.h>
+i<Foundation/Foundation.h>
+i<AVFoundation/AVAsset.h>
+i<CoreMedia/CMTime.h>
+i<CoreMedia/CMTimeRange.h>
+
+N/Developer/Projects/AudioDiner/AVFoundation.framework/Headers/AVCompositionTrack.h
+c000000004D6833810000000000001AD3
+t1298674561
+s6867
+i<AVFoundation/AVBase.h>
+i<AVFoundation/AVAssetTrack.h>
+i<CoreMedia/CMTime.h>
+i<CoreMedia/CMTimeRange.h>
+
+N/Developer/Projects/AudioDiner/AVFoundation.framework/Headers/AVCompositionTrackSegment.h
+c000000004D68338100000000000011E6
+t1298674561
+s4582
+i<AVFoundation/AVBase.h>
+i<AVFoundation/AVAssetTrackSegment.h>
+i<Foundation/Foundation.h>
+i<CoreMedia/CMTimeRange.h>
+
+N/Developer/Projects/AudioDiner/AVFoundation.framework/Headers/AVError.h
+c000000004D6833810000000000000ADF
+t1298674561
+s2783
+i<AVFoundation/AVBase.h>
+i<Foundation/Foundation.h>
+
+N/Developer/Projects/AudioDiner/AVFoundation.framework/Headers/AVFoundation.h
+c000000004D7046AD00000000000006F2
+t1299203757
+s1778
+i<AVFoundation/AVBase.h>
+i<AVFoundation/AVAudioPlayer.h>
+i<AVFoundation/AVAudioRecorder.h>
+i<AVFoundation/AVAudioSettings.h>
+i<AVFoundation/AVAnimation.h>
+i<AVFoundation/AVAsset.h>
+i<AVFoundation/AVAssetExportSession.h>
+i<AVFoundation/AVAssetImageGenerator.h>
+i<AVFoundation/AVAssetReader.h>
+i<AVFoundation/AVAssetReaderOutput.h>
+i<AVFoundation/AVAssetTrack.h>
+i<AVFoundation/AVAssetTrackSegment.h>
+i<AVFoundation/AVAssetWriter.h>
+i<AVFoundation/AVAssetWriterInput.h>
+i<AVFoundation/AVAsynchronousKeyValueLoading.h>
+i<AVFoundation/AVAudioMix.h>
+i<AVFoundation/AVComposition.h>
+i<AVFoundation/AVCompositionTrack.h>
+i<AVFoundation/AVCompositionTrackSegment.h>
+i<AVFoundation/AVError.h>
+i<AVFoundation/AVMediaFormat.h>
+i<AVFoundation/AVMetadataFormat.h>
+i<AVFoundation/AVMetadataItem.h>
+i<AVFoundation/AVPlayer.h>
+i<AVFoundation/AVPlayerItem.h>
+i<AVFoundation/AVPlayerItemTrack.h>
+i<AVFoundation/AVPlayerLayer.h>
+i<AVFoundation/AVSynchronizedLayer.h>
+i<AVFoundation/AVTime.h>
+i<AVFoundation/AVUtilities.h>
+i<AVFoundation/AVVideoComposition.h>
+i<AVFoundation/AVVideoSettings.h>
+i<AVFoundation/AVAudioSession.h>
+i"AVCaptureSession.h"
+i"AVCaptureDevice.h"
+i"AVCaptureInput.h"
+i"AVCaptureOutput.h"
+i"AVCaptureVideoPreviewLayer.h"
+
+N/Developer/Projects/AudioDiner/AVFoundation.framework/Headers/AVMediaFormat.h
+c000000004D683381000000000000113D
+t1298674561
+s4413
+i<AVFoundation/AVBase.h>
+i<Foundation/Foundation.h>
+
+N/Developer/Projects/AudioDiner/AVFoundation.framework/Headers/AVMetadataFormat.h
+c000000004D6833810000000000009C5A
+t1298674561
+s40026
+i<AVFoundation/AVBase.h>
+i<Foundation/Foundation.h>
+
+N/Developer/Projects/AudioDiner/AVFoundation.framework/Headers/AVMetadataItem.h
+c000000004D6833810000000000001A6C
+t1298674561
+s6764
+i<AVFoundation/AVBase.h>
+i<Foundation/Foundation.h>
+i<CoreMedia/CMTime.h>
+i<AVFoundation/AVMetadataFormat.h>
+i<AVFoundation/AVAsynchronousKeyValueLoading.h>
+i<CoreGraphics/CoreGraphics.h>
+i<ApplicationServices/../Frameworks/CoreGraphics.framework/Headers/CoreGraphics.h>
+
+N/Developer/Projects/AudioDiner/AVFoundation.framework/Headers/AVPlayer.h
+c000000004D6833810000000000003B21
+t1298674561
+s15137
+i<AVFoundation/AVBase.h>
+i<CoreMedia/CMTime.h>
+i<CoreMedia/CMTimeRange.h>
+i<Foundation/Foundation.h>
+
+N/Developer/Projects/AudioDiner/AVFoundation.framework/Headers/AVPlayerItem.h
+c000000004D6833810000000000002848
+t1298674561
+s10312
+i<AVFoundation/AVBase.h>
+i<Foundation/Foundation.h>
+i<CoreMedia/CMTime.h>
+i<CoreMedia/CMTimeRange.h>
+i<CoreGraphics/CGGeometry.h>
+i<ApplicationServices/../Frameworks/CoreGraphics.framework/Headers/CGGeometry.h>
+
+N/Developer/Projects/AudioDiner/AVFoundation.framework/Headers/AVPlayerItemTrack.h
+c000000004D683381000000000000029B
+t1298674561
+s667
+i<AVFoundation/AVBase.h>
+i<Foundation/Foundation.h>
+
+N/Developer/Projects/AudioDiner/AVFoundation.framework/Headers/AVPlayerLayer.h
+c000000004D6833810000000000000CA4
+t1298674561
+s3236
+i<AVFoundation/AVBase.h>
+i<AVFoundation/AVAnimation.h>
+i<QuartzCore/CoreAnimation.h>
+
+N/Developer/Projects/AudioDiner/AVFoundation.framework/Headers/AVSynchronizedLayer.h
+c000000004D683381000000000000099E
+t1298674561
+s2462
+i<AVFoundation/AVBase.h>
+i<QuartzCore/CAAnimation.h>
+
+N/Developer/Projects/AudioDiner/AVFoundation.framework/Headers/AVTime.h
+c000000004D6833810000000000000459
+t1298674561
+s1113
+i<AVFoundation/AVBase.h>
+i<Foundation/Foundation.h>
+i<CoreMedia/CMTime.h>
+i<CoreMedia/CMTimeRange.h>
+
+N/Developer/Projects/AudioDiner/AVFoundation.framework/Headers/AVUtilities.h
+c000000004D6833810000000000000526
+t1298674561
+s1318
+i<AVFoundation/AVBase.h>
+i<CoreGraphics/CGBase.h>
+i<CoreGraphics/CGGeometry.h>
+i<ApplicationServices/../Frameworks/CoreGraphics.framework/Headers/CGBase.h>
+i<ApplicationServices/../Frameworks/CoreGraphics.framework/Headers/CGGeometry.h>
+
+N/Developer/Projects/AudioDiner/AVFoundation.framework/Headers/AVVideoComposition.h
+c000000004D68338100000000000048F7
+t1298674561
+s18679
+i<AVFoundation/AVBase.h>
+i<AVFoundation/AVAsset.h>
+i<Foundation/Foundation.h>
+i<CoreVideo/CoreVideo.h>
+i<CoreMedia/CMTime.h>
+i<CoreMedia/CMTimeRange.h>
+
+N/Developer/Projects/AudioDiner/AVFoundation.framework/Headers/AVVideoSettings.h
+c000000004D68338100000000000012B7
+t1298674561
+s4791
+i<AVFoundation/AVBase.h>
+i<Foundation/Foundation.h>
+
+N/Developer/Projects/AudioDiner/AlbumCover.jpg
+c0000000040DCC3E000000000001DC1A0
+t1088209888
+s1950112
+
+N/Developer/Projects/AudioDiner/AlbumCover2.jpg
+c000000004D26895800000000000690BF
+t1294371160
+s430271
+
+N/Developer/Projects/AudioDiner/Appetizer.jpg
+c000000004CC4EFA80000000000165A09
+t1287974824
+s1464841
+
+N/Developer/Projects/AudioDiner/AudioDiner_Prefix.pch
+c000000004D347F1400000000000000BD
+t1295286036
+s189
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Developer/Projects/AudioDiner/BigPicController.h
+c000000004D72F8F20000000000000246
+t1299380466
+s582
+i<Foundation/Foundation.h>
+i"AudioViewController.h"
+
+N/Developer/Projects/AudioDiner/BigPicController.m
+c000000004D72F79D00000000000005FE
+t1299380125
+s1534
+i"BigPicController.h"
+
+N/Developer/Projects/AudioDiner/Carmel2007ThatsMyDad.jpg
+c000000004B5592C5000000000004B6B7
+t1263899333
+s308919
+
+N/Developer/Projects/AudioDiner/Classes/AVFoundation.framework/AVFoundation
+c000000004DEA7945000000000020BF30
+t1307212101
+s2146096
+
+N/Developer/Projects/AudioDiner/Classes/AddressAnnotation.h
+c000000004D72C6EF0000000000000141
+t1299367663
+s321
+i<Foundation/Foundation.h>
+i<MapKit/MapKit.h>
+
+N/Developer/Projects/AudioDiner/Classes/AddressAnnotation.m
+c000000004D72C701000000000000019F
+t1299367681
+s415
+i"AddressAnnotation.h"
+
+N/Developer/Projects/AudioDiner/Classes/AudioDinerAppDelegate.h
+c000000004D6AA996000000000000065F
+t1298835862
+s1631
+i<UIKit/UIKit.h>
+i"XMLRPCResponse.h"
+i"XMLRPCRequest.h"
+i"XMLRPCConnection.h"
+
+N/Developer/Projects/AudioDiner/Classes/AudioDinerAppDelegate.m
+c000000004DEAA0E00000000000002E73
+t1307222240
+s11891
+i"AudioDinerAppDelegate.h"
+i"ScheduleNavController.h"
+i"PicNavController.h"
+i"AudioDinerEventTableController.h"
+i"EventInfoViewController.h"
+i"PicViewController.h"
+i"AudioViewController.h"
+i"XMLRPCResponse.h"
+i"XMLRPCRequest.h"
+i"XMLRPCConnection.h"
+
+N/Developer/Projects/AudioDiner/Classes/AudioDinerEventTableController.h
+c000000004D4F48440000000000000282
+t1297041476
+s642
+i<UIKit/UIKit.h>
+i"AudioDinerAppDelegate.h"
+
+N/Developer/Projects/AudioDiner/Classes/AudioDinerEventTableController.m
+c000000004D6ED61C00000000000017EB
+t1299109404
+s6123
+i<QuartzCore/QuartzCore.h>
+i"AudioDinerEventTableController.h"
+i"EventInfoViewController.h"
+i"AudioDinerAppDelegate.h"
+
+N/Developer/Projects/AudioDiner/Classes/AudioDinerEventTableController.xib
+c000000004D4F48260000000000006796
+t1297041446
+s26518
+
+N/Developer/Projects/AudioDiner/Classes/AudioViewController.h
+c000000004D6AFBAC0000000000000256
+t1298856876
+s598
+i<UIKit/UIKit.h>
+i"AudioDinerAppDelegate.h"
+
+N/Developer/Projects/AudioDiner/Classes/AudioViewController.m
+c000000004D6B10CA0000000000001731
+t1298862282
+s5937
+i<QuartzCore/QuartzCore.h>
+i"AudioViewController.h"
+i"StoredAudioController.h"
+
+N/Developer/Projects/AudioDiner/Classes/AudioViewController.xib
+c000000004D601C850000000000004791
+t1298144389
+s18321
+
+N/Developer/Projects/AudioDiner/Classes/BigPicController.xib
+c000000004D72F7FE0000000000004429
+t1299380222
+s17449
+
+N/Developer/Projects/AudioDiner/Classes/EventInfoViewController.h
+c000000004D72C98F00000000000002FA
+t1299368335
+s762
+i<UIKit/UIKit.h>
+i<MapKit/MapKit.h>
+
+N/Developer/Projects/AudioDiner/Classes/EventInfoViewController.m
+c000000004D72E18400000000000011A7
+t1299374468
+s4519
+i"EventInfoViewController.h"
+i"AddressAnnotation.h"
+
+N/Developer/Projects/AudioDiner/Classes/EventInfoViewController.xib
+c000000004D72E1D200000000000053E4
+t1299374546
+s21476
+
+N/Developer/Projects/AudioDiner/Classes/PicNavController.h
+c000000004D7301DA00000000000000F9
+t1299382746
+s249
+i<UIKit/UIKit.h>
+
+N/Developer/Projects/AudioDiner/Classes/PicNavController.m
+c000000004D73016700000000000005AA
+t1299382631
+s1450
+i"PicNavController.h"
+
+N/Developer/Projects/AudioDiner/Classes/PicViewController.h
+c000000004D73064500000000000003B2
+t1299383877
+s946
+i<UIKit/UIKit.h>
+i"AudioViewController.h"
+
+N/Developer/Projects/AudioDiner/Classes/PicViewController.m
+c000000004D7307CE0000000000001782
+t1299384270
+s6018
+i"PicViewController.h"
+i"BigPicController.h"
+i"AudioViewController.h"
+i"XMLRPCResponse.h"
+i"XMLRPCRequest.h"
+i"XMLRPCConnection.h"
+
+N/Developer/Projects/AudioDiner/Classes/PicViewController.xib
+c000000004D7300030000000000004D1E
+t1299382275
+s19742
+
+N/Developer/Projects/AudioDiner/Classes/ScheduleNavController.h
+c000000004D4CC3620000000000000103
+t1296876386
+s259
+i<UIKit/UIKit.h>
+
+N/Developer/Projects/AudioDiner/Classes/ScheduleNavController.m
+c000000004D4CC365000000000000065E
+t1296876389
+s1630
+i"ScheduleNavController.h"
+
+N/Developer/Projects/AudioDiner/Classes/StoredAudioController.h
+c000000004D7315C8000000000000048B
+t1299387848
+s1163
+i<UIKit/UIKit.h>
+i<AudioToolbox/AudioToolbox.h>
+i<AVFoundation/AVFoundation.h>
+i"AudioViewController.h"
+
+N/Developer/Projects/AudioDiner/Classes/StoredAudioController.m
+c000000004DEAA04F0000000000000BCC
+t1307222095
+s3020
+i"StoredAudioController.h"
+i<AudioToolbox/AudioToolbox.h>
+i<AVFoundation/AVFoundation.h>
+
+N/Developer/Projects/AudioDiner/Classes/StoredAudioController.xib
+c000000004D73166200000000000069F6
+t1299388002
+s27126
+
+N/Developer/Projects/AudioDiner/GoodbyeAgain.mp3
+c000000004D589BFA000000000059B14F
+t1297652730
+s5878095
+
+N/Developer/Projects/AudioDiner/MainWindow.xib
+c000000004D424C490000000000005384
+t1296190537
+s21380
+
+N/Developer/Projects/AudioDiner/NSString+XMLExtensions.h
+c000000004CCCE9220000000000000113
+t1288497442
+s275
+i<UIKit/UIKit.h>
+
+N/Developer/Projects/AudioDiner/NSString+XMLExtensions.m
+c000000004CCCE9220000000000000B32
+t1288497442
+s2866
+i"NSString+XMLExtensions.h"
+
+N/Developer/Projects/AudioDiner/Note.jpg
+c000000004D2FB17200000000000009CA
+t1294971250
+s2506
+
+N/Developer/Projects/AudioDiner/Note2.jpg
+c000000004D2FBAB60000000000000B26
+t1294973622
+s2854
+
+N/Developer/Projects/AudioDiner/Note3.jpg
+c000000004D31BF450000000000000A78
+t1295105861
+s2680
+
+N/Developer/Projects/AudioDiner/NukeTheWhales.mp3
+c000000004D6B12F400000000004E487D
+t1298862836
+s5130365
+
+N/Developer/Projects/AudioDiner/RecordPlayer.png
+c000000004D6AF230000000000003115F
+t1298854448
+s201055
+
+N/Developer/Projects/AudioDiner/ScheduleNavController.xib
+c000000004D4A045E0000000000001F2F
+t1296696414
+s7983
+
+N/Developer/Projects/AudioDiner/XMLRPCConnection.h
+c000000004CCCE91E0000000000000809
+t1288497438
+s2057
+i<Foundation/Foundation.h>
+
+N/Developer/Projects/AudioDiner/XMLRPCConnection.m
+c000000004CCCE91E0000000000001790
+t1288497438
+s6032
+i"XMLRPCConnection.h"
+i"XMLRPCRequest.h"
+i"XMLRPCResponse.h"
+
+N/Developer/Projects/AudioDiner/XMLRPCDecoder.h
+c000000004CCCE9200000000000000595
+t1288497440
+s1429
+i<Foundation/Foundation.h>
+i"XMLValueDecoder.h"
+
+N/Developer/Projects/AudioDiner/XMLRPCDecoder.m
+c000000004CCCE9200000000000000E0A
+t1288497440
+s3594
+i"XMLRPCDecoder.h"
+i"XMLRPCExtensions.h"
+
+N/Developer/Projects/AudioDiner/XMLRPCEncoder.h
+c000000004CCCE92000000000000005B9
+t1288497440
+s1465
+i<Foundation/Foundation.h>
+
+N/Developer/Projects/AudioDiner/XMLRPCEncoder.m
+c000000004CCCE9200000000000002101
+t1288497440
+s8449
+i"XMLRPCEncoder.h"
+i"XMLRPCExtensions.h"
+i"NSString+XMLExtensions.h"
+
+N/Developer/Projects/AudioDiner/XMLRPCExtensions.h
+c000000004CCCE9250000000000000590
+t1288497445
+s1424
+i<Foundation/NSData.h>
+i<Foundation/NSString.h>
+
+N/Developer/Projects/AudioDiner/XMLRPCExtensions.m
+c000000004CCCE92500000000000014A2
+t1288497445
+s5282
+i"XMLRPCExtensions.h"
+
+N/Developer/Projects/AudioDiner/XMLRPCRequest.h
+c000000004CCCE91F00000000000006FB
+t1288497439
+s1787
+i<Foundation/Foundation.h>
+
+N/Developer/Projects/AudioDiner/XMLRPCRequest.m
+c000000004CCCE91F0000000000000F1C
+t1288497439
+s3868
+i"XMLRPCRequest.h"
+i"XMLRPCEncoder.h"
+
+N/Developer/Projects/AudioDiner/XMLRPCResponse.h
+c000000004CCCE91E0000000000000609
+t1288497438
+s1545
+i<Foundation/Foundation.h>
+
+N/Developer/Projects/AudioDiner/XMLRPCResponse.m
+c000000004CCCE91E0000000000000B8B
+t1288497438
+s2955
+i"XMLRPCResponse.h"
+i"XMLRPCDecoder.h"
+
+N/Developer/Projects/AudioDiner/XMLValueDecoder.h
+c000000004CCCE9200000000000000305
+t1288497440
+s773
+i<Foundation/Foundation.h>
+
+N/Developer/Projects/AudioDiner/XMLValueDecoder.m
+c000000004CCCE9200000000000001A20
+t1288497440
+s6688
+i"XMLValueDecoder.h"
+i"XMLRPCExtensions.h"
+i"NSString+XMLExtensions.h"
+
+N/Developer/Projects/AudioDiner/build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/Objects-normal/i386/AddressAnnotation.o
+t1307327186
+s10400
+
+N/Developer/Projects/AudioDiner/build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/Objects-normal/i386/AudioDiner.LinkFileList
+c000000004DEA77D00000000000000A09
+t1307211728
+s2569
+
+N/Developer/Projects/AudioDiner/build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/Objects-normal/i386/AudioDinerAppDelegate.o
+t1307327186
+s82192
+
+N/Developer/Projects/AudioDiner/build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/Objects-normal/i386/AudioDinerEventTableController.o
+t1307327186
+s69108
+
+N/Developer/Projects/AudioDiner/build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/Objects-normal/i386/AudioViewController.o
+t1307327187
+s65876
+
+N/Developer/Projects/AudioDiner/build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/Objects-normal/i386/BigPicController.o
+t1307327186
+s41416
+
+N/Developer/Projects/AudioDiner/build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/Objects-normal/i386/EventInfoViewController.o
+t1307327186
+s56100
+
+N/Developer/Projects/AudioDiner/build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/Objects-normal/i386/NSString+XMLExtensions.o
+t1307327185
+s10392
+
+N/Developer/Projects/AudioDiner/build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/Objects-normal/i386/PicNavController.o
+t1307327186
+s40868
+
+N/Developer/Projects/AudioDiner/build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/Objects-normal/i386/PicViewController.o
+t1307327186
+s65700
+
+N/Developer/Projects/AudioDiner/build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/Objects-normal/i386/ScheduleNavController.o
+t1307327186
+s41000
+
+N/Developer/Projects/AudioDiner/build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/Objects-normal/i386/StoredAudioController.o
+t1307327187
+s58980
+
+N/Developer/Projects/AudioDiner/build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/Objects-normal/i386/XMLRPCConnection.o
+t1307327185
+s20084
+
+N/Developer/Projects/AudioDiner/build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/Objects-normal/i386/XMLRPCDecoder.o
+t1307327185
+s19052
+
+N/Developer/Projects/AudioDiner/build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/Objects-normal/i386/XMLRPCEncoder.o
+t1307327186
+s27968
+
+N/Developer/Projects/AudioDiner/build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/Objects-normal/i386/XMLRPCExtensions.o
+t1307327185
+s10816
+
+N/Developer/Projects/AudioDiner/build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/Objects-normal/i386/XMLRPCRequest.o
+t1307327186
+s18280
+
+N/Developer/Projects/AudioDiner/build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/Objects-normal/i386/XMLRPCResponse.o
+t1307327186
+s15540
+
+N/Developer/Projects/AudioDiner/build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/Objects-normal/i386/XMLValueDecoder.o
+t1307327186
+s24852
+
+N/Developer/Projects/AudioDiner/build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/Objects-normal/i386/main.o
+t1307327185
+s6272
+
+N/Developer/Projects/AudioDiner/build/Release-iphonesimulator/AudioDiner.app
+t1307327187
+s884
+
+N/Developer/Projects/AudioDiner/build/Release-iphonesimulator/AudioDiner.app.dSYM
+t1307327187
+s102
+
+N/Developer/Projects/AudioDiner/build/Release-iphonesimulator/AudioDiner.app/AlbumCover.jpg
+t1307211730
+s1950112
+
+N/Developer/Projects/AudioDiner/build/Release-iphonesimulator/AudioDiner.app/AlbumCover2.jpg
+t1307211729
+s430271
+
+N/Developer/Projects/AudioDiner/build/Release-iphonesimulator/AudioDiner.app/Appetizer.jpg
+t1307211730
+s1464841
+
+N/Developer/Projects/AudioDiner/build/Release-iphonesimulator/AudioDiner.app/AudioDiner
+t1307327187
+s126564
+
+N/Developer/Projects/AudioDiner/build/Release-iphonesimulator/AudioDiner.app/AudioDinerEventTableController.nib
+t1307211729
+s1465
+
+N/Developer/Projects/AudioDiner/build/Release-iphonesimulator/AudioDiner.app/AudioViewController.nib
+t1307211730
+s1108
+
+N/Developer/Projects/AudioDiner/build/Release-iphonesimulator/AudioDiner.app/BigPicController.nib
+t1307211731
+s961
+
+N/Developer/Projects/AudioDiner/build/Release-iphonesimulator/AudioDiner.app/Carmel2007ThatsMyDad.jpg
+t1307211730
+s308919
+
+N/Developer/Projects/AudioDiner/build/Release-iphonesimulator/AudioDiner.app/EventInfoViewController.nib
+t1307211731
+s1599
+
+N/Developer/Projects/AudioDiner/build/Release-iphonesimulator/AudioDiner.app/GoodbyeAgain.mp3
+t1307211731
+s5878095
+
+N/Developer/Projects/AudioDiner/build/Release-iphonesimulator/AudioDiner.app/Info.plist
+t1307211728
+s638
+
+N/Developer/Projects/AudioDiner/build/Release-iphonesimulator/AudioDiner.app/Logo.jpg
+t1307211729
+s535788
+
+N/Developer/Projects/AudioDiner/build/Release-iphonesimulator/AudioDiner.app/LogoSmall.jpg
+t1307211729
+s37090
+
+N/Developer/Projects/AudioDiner/build/Release-iphonesimulator/AudioDiner.app/MainWindow.nib
+t1307211729
+s1270
+
+N/Developer/Projects/AudioDiner/build/Release-iphonesimulator/AudioDiner.app/Note.jpg
+t1307211729
+s2506
+
+N/Developer/Projects/AudioDiner/build/Release-iphonesimulator/AudioDiner.app/Note2.jpg
+t1307211729
+s2854
+
+N/Developer/Projects/AudioDiner/build/Release-iphonesimulator/AudioDiner.app/Note3.jpg
+t1307211729
+s2680
+
+N/Developer/Projects/AudioDiner/build/Release-iphonesimulator/AudioDiner.app/NukeTheWhales.mp3
+t1307211731
+s5130365
+
+N/Developer/Projects/AudioDiner/build/Release-iphonesimulator/AudioDiner.app/PicViewController.nib
+t1307211730
+s1149
+
+N/Developer/Projects/AudioDiner/build/Release-iphonesimulator/AudioDiner.app/PkgInfo
+t1307211728
+s8
+
+N/Developer/Projects/AudioDiner/build/Release-iphonesimulator/AudioDiner.app/RecordPlayer.png
+t1307211730
+s201055
+
+N/Developer/Projects/AudioDiner/build/Release-iphonesimulator/AudioDiner.app/ScheduleNavController.nib
+t1307211730
+s1024
+
+N/Developer/Projects/AudioDiner/build/Release-iphonesimulator/AudioDiner.app/StoredAudioController.nib
+t1307211730
+s2358
+
+N/Developer/Projects/AudioDiner/build/Release-iphonesimulator/AudioDiner.app/iPhoneIcon.jpg
+t1307211730
+s1866570
+
+N/Developer/Projects/AudioDiner/main.m
+c000000004D347F140000000000000179
+t1295286036
+s377
+i<UIKit/UIKit.h>
+
+N/Users/kevin/AudioDiner/Logo.jpg
+c00000000414268B40000000000082CEC
+t1094871220
+s535788
+
+N/Users/kevin/AudioDiner/LogoSmall.jpg
+c000000004142686100000000000090E2
+t1094871137
+s37090
+
+N/Users/kevin/AudioDiner/iPhoneIcon.jpg
+c000000004D268BB900000000001C7B4A
+t1294371769
+s1866570
+
+N/var/folders/XJ/XJjsEo29H04AWh2Xlu8Oo++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AudioDiner_Prefix-alvkdcwxfoigodbpyhtqjhewgjjy/AudioDiner_Prefix.pch.gch
+t1307327185
+s15113424
+
+N/var/folders/XJ/XJjsEo29H04AWh2Xlu8Oo++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AudioDiner_Prefix-arwzgfvtnhbhneeyzyyzcfczbyxk/AudioDiner_Prefix.pch.gch
+t1307211732
+s15113424
+
+N/var/folders/XJ/XJjsEo29H04AWh2Xlu8Oo++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AudioDiner_Prefix-bcyeaegujcbeqlbvjhbkwoikfpyq/AudioDiner_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/XJ/XJjsEo29H04AWh2Xlu8Oo++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AudioDiner_Prefix-cztafeactnozmrbdkqfotwhplalo/AudioDiner_Prefix.pch.gch
+t1307212107
+s15113424
+
+NAudioDiner-Info.plist
+c000000004D3C8C3B0000000000000396
+t1295813691
+s918
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies329019993#329019993#0(0"0(0#1#0"8751546304#0"0#
+
+CCompileC build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/Objects-normal/i386/AddressAnnotation.o /Developer/Projects/AudioDiner/Classes/AddressAnnotation.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s329019986.525477
+e329019986.596052
+r1
+xCompileC
+xbuild/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/Objects-normal/i386/AddressAnnotation.o
+x/Developer/Projects/AudioDiner/Classes/AddressAnnotation.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@66"Compile /Developer/Projects/AudioDiner/Classes/AddressAnnotation.m329019986#329019986#0(0"0(0#0#58"/Developer/Projects/AudioDiner/Classes/AddressAnnotation.m8749947680#1979"    cd /Developer/Projects/AudioDiner    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Developer/Projects/AudioDiner/build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/AudioDiner-generated-files.hmap -I/Developer/Projects/AudioDiner/build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/AudioDiner-own-target-headers.hmap -I/Developer/Projects/AudioDiner/build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/AudioDiner-all-target-headers.hmap -iquote /Developer/Projects/AudioDiner/build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/AudioDiner-project-headers.hmap -F/Developer/Projects/AudioDiner/build/Release-iphonesimulator -I/Developer/Projects/AudioDiner/build/Release-iphonesimulator/include -I/Developer/Projects/AudioDiner/build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/DerivedSources/i386 -I/Developer/Projects/AudioDiner/build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/XJ/XJjsEo29H04AWh2Xlu8Oo++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AudioDiner_Prefix-alvkdcwxfoigodbpyhtqjhewgjjy/AudioDiner_Prefix.pch -c /Developer/Projects/AudioDiner/Classes/AddressAnnotation.m -o /Developer/Projects/AudioDiner/build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/Objects-normal/i386/AddressAnnotation.o0#
+
+CCompileC build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/Objects-normal/i386/AudioDinerAppDelegate.o /Developer/Projects/AudioDiner/Classes/AudioDinerAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s329019985.490631
+e329019986.262043
+r1
+xCompileC
+xbuild/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/Objects-normal/i386/AudioDinerAppDelegate.o
+x/Developer/Projects/AudioDiner/Classes/AudioDinerAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Developer/Projects/AudioDiner/Classes/AudioDinerAppDelegate.m: In function '-[AudioDinerAppDelegate getScheduleInBackground]':
+o/Developer/Projects/AudioDiner/Classes/AudioDinerAppDelegate.m:116: warning: unused variable 'server'
+lSLF07#2@70"Compile /Developer/Projects/AudioDiner/Classes/AudioDinerAppDelegate.m329019985#329019986#0(230"/Developer/Projects/AudioDiner/Classes/AudioDinerAppDelegate.m: In function '-[AudioDinerAppDelegate getScheduleInBackground]':/Developer/Projects/AudioDiner/Classes/AudioDinerAppDelegate.m:116: warning: unused variable 'server'1(22@24"Unused variable 'server'329019985#128#102#0(6@62"/Developer/Projects/AudioDiner/Classes/AudioDinerAppDelegate.m328915040#116#0#116#0#19"unused variable '*'0(0#0#62"/Developer/Projects/AudioDiner/Classes/AudioDinerAppDelegate.m8748037856#1987"    cd /Developer/Projects/AudioDiner    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Developer/Projects/AudioDiner/build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/AudioDiner-generated-files.hmap -I/Developer/Projects/AudioDiner/build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/AudioDiner-own-target-headers.hmap -I/Developer/Projects/AudioDiner/build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/AudioDiner-all-target-headers.hmap -iquote /Developer/Projects/AudioDiner/build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/AudioDiner-project-headers.hmap -F/Developer/Projects/AudioDiner/build/Release-iphonesimulator -I/Developer/Projects/AudioDiner/build/Release-iphonesimulator/include -I/Developer/Projects/AudioDiner/build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/DerivedSources/i386 -I/Developer/Projects/AudioDiner/build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/XJ/XJjsEo29H04AWh2Xlu8Oo++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AudioDiner_Prefix-alvkdcwxfoigodbpyhtqjhewgjjy/AudioDiner_Prefix.pch -c /Developer/Projects/AudioDiner/Classes/AudioDinerAppDelegate.m -o /Developer/Projects/AudioDiner/build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/Objects-normal/i386/AudioDinerAppDelegate.o0#
+
+CCompileC build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/Objects-normal/i386/AudioDinerEventTableController.o /Developer/Projects/AudioDiner/Classes/AudioDinerEventTableController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s329019986.129843
+e329019986.540426
+r1
+xCompileC
+xbuild/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/Objects-normal/i386/AudioDinerEventTableController.o
+x/Developer/Projects/AudioDiner/Classes/AudioDinerEventTableController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /Developer/Projects/AudioDiner/Classes/AudioDinerEventTableController.m329019986#329019986#0(0"0(0#0#71"/Developer/Projects/AudioDiner/Classes/AudioDinerEventTableController.m8747879328#2005"    cd /Developer/Projects/AudioDiner    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Developer/Projects/AudioDiner/build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/AudioDiner-generated-files.hmap -I/Developer/Projects/AudioDiner/build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/AudioDiner-own-target-headers.hmap -I/Developer/Projects/AudioDiner/build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/AudioDiner-all-target-headers.hmap -iquote /Developer/Projects/AudioDiner/build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/AudioDiner-project-headers.hmap -F/Developer/Projects/AudioDiner/build/Release-iphonesimulator -I/Developer/Projects/AudioDiner/build/Release-iphonesimulator/include -I/Developer/Projects/AudioDiner/build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/DerivedSources/i386 -I/Developer/Projects/AudioDiner/build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/XJ/XJjsEo29H04AWh2Xlu8Oo++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AudioDiner_Prefix-alvkdcwxfoigodbpyhtqjhewgjjy/AudioDiner_Prefix.pch -c /Developer/Projects/AudioDiner/Classes/AudioDinerEventTableController.m -o /Developer/Projects/AudioDiner/build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/Objects-normal/i386/AudioDinerEventTableController.o0#
+
+CCompileC build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/Objects-normal/i386/AudioViewController.o /Developer/Projects/AudioDiner/Classes/AudioViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s329019986.373772
+e329019987.142715
+r1
+xCompileC
+xbuild/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/Objects-normal/i386/AudioViewController.o
+x/Developer/Projects/AudioDiner/Classes/AudioViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Developer/Projects/AudioDiner/Classes/AudioViewController.m: In function '-[AudioViewController goBack]':
+o/Developer/Projects/AudioDiner/Classes/AudioViewController.m:151: warning: 'UIViewController' may not respond to '-stopMusic'
+o/Developer/Projects/AudioDiner/Classes/AudioViewController.m:151: warning: (Messages without a matching method signature
+o/Developer/Projects/AudioDiner/Classes/AudioViewController.m:151: warning: will be assumed to return 'id' and accept
+o/Developer/Projects/AudioDiner/Classes/AudioViewController.m:151: warning: '...' as arguments.)
+lSLF07#2@68"Compile /Developer/Projects/AudioDiner/Classes/AudioViewController.m329019986#329019987#0(567"/Developer/Projects/AudioDiner/Classes/AudioViewController.m: In function '-[AudioViewController goBack]':/Developer/Projects/AudioDiner/Classes/AudioViewController.m:151: warning: 'UIViewController' may not respond to '-stopMusic'/Developer/Projects/AudioDiner/Classes/AudioViewController.m:151: warning: (Messages without a matching method signature/Developer/Projects/AudioDiner/Classes/AudioViewController.m:151: warning: will be assumed to return 'id' and accept/Developer/Projects/AudioDiner/Classes/AudioViewController.m:151: warning: '...' as arguments.)2(22@50"'UIViewController' may not respond to '-stopMusic'329019986#107#126#0(6@60"/Developer/Projects/AudioDiner/Classes/AudioViewController.m320555082#151#0#151#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)329019986#233#121#0(6@60"/Developer/Projects/AudioDiner/Classes/AudioViewController.m320555082#151#0#151#0#0"0(0#0#60"/Developer/Projects/AudioDiner/Classes/AudioViewController.m8752623552#1983"    cd /Developer/Projects/AudioDiner    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Developer/Projects/AudioDiner/build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/AudioDiner-generated-files.hmap -I/Developer/Projects/AudioDiner/build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/AudioDiner-own-target-headers.hmap -I/Developer/Projects/AudioDiner/build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/AudioDiner-all-target-headers.hmap -iquote /Developer/Projects/AudioDiner/build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/AudioDiner-project-headers.hmap -F/Developer/Projects/AudioDiner/build/Release-iphonesimulator -I/Developer/Projects/AudioDiner/build/Release-iphonesimulator/include -I/Developer/Projects/AudioDiner/build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/DerivedSources/i386 -I/Developer/Projects/AudioDiner/build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/XJ/XJjsEo29H04AWh2Xlu8Oo++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AudioDiner_Prefix-alvkdcwxfoigodbpyhtqjhewgjjy/AudioDiner_Prefix.pch -c /Developer/Projects/AudioDiner/Classes/AudioViewController.m -o /Developer/Projects/AudioDiner/build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/Objects-normal/i386/AudioViewController.o0#
+
+CCompileC build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/Objects-normal/i386/BigPicController.o /Developer/Projects/AudioDiner/BigPicController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s329019986.540531
+e329019986.644639
+r1
+xCompileC
+xbuild/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/Objects-normal/i386/BigPicController.o
+x/Developer/Projects/AudioDiner/BigPicController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@57"Compile /Developer/Projects/AudioDiner/BigPicController.m329019986#329019986#0(0"0(0#0#49"/Developer/Projects/AudioDiner/BigPicController.m8755736544#1969"    cd /Developer/Projects/AudioDiner    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Developer/Projects/AudioDiner/build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/AudioDiner-generated-files.hmap -I/Developer/Projects/AudioDiner/build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/AudioDiner-own-target-headers.hmap -I/Developer/Projects/AudioDiner/build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/AudioDiner-all-target-headers.hmap -iquote /Developer/Projects/AudioDiner/build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/AudioDiner-project-headers.hmap -F/Developer/Projects/AudioDiner/build/Release-iphonesimulator -I/Developer/Projects/AudioDiner/build/Release-iphonesimulator/include -I/Developer/Projects/AudioDiner/build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/DerivedSources/i386 -I/Developer/Projects/AudioDiner/build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/XJ/XJjsEo29H04AWh2Xlu8Oo++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AudioDiner_Prefix-alvkdcwxfoigodbpyhtqjhewgjjy/AudioDiner_Prefix.pch -c /Developer/Projects/AudioDiner/BigPicController.m -o /Developer/Projects/AudioDiner/build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/Objects-normal/i386/BigPicController.o0#
+
+CCompileC build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/Objects-normal/i386/EventInfoViewController.o /Developer/Projects/AudioDiner/Classes/EventInfoViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s329019986.293257
+e329019986.525277
+r1
+xCompileC
+xbuild/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/Objects-normal/i386/EventInfoViewController.o
+x/Developer/Projects/AudioDiner/Classes/EventInfoViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Developer/Projects/AudioDiner/Classes/EventInfoViewController.m: In function '-[EventInfoViewController viewDidLoad]':
+o/Developer/Projects/AudioDiner/Classes/EventInfoViewController.m:42: warning: initialization from incompatible pointer type
+o/Developer/Projects/AudioDiner/Classes/EventInfoViewController.m: In function '-[EventInfoViewController getLocationFromAddress:]':
+o/Developer/Projects/AudioDiner/Classes/EventInfoViewController.m:84: warning: 'stringWithContentsOfURL:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:384)
+lSLF07#2@72"Compile /Developer/Projects/AudioDiner/Classes/EventInfoViewController.m329019986#329019986#0(663"/Developer/Projects/AudioDiner/Classes/EventInfoViewController.m: In function '-[EventInfoViewController viewDidLoad]':/Developer/Projects/AudioDiner/Classes/EventInfoViewController.m:42: warning: initialization from incompatible pointer type/Developer/Projects/AudioDiner/Classes/EventInfoViewController.m: In function '-[EventInfoViewController getLocationFromAddress:]':/Developer/Projects/AudioDiner/Classes/EventInfoViewController.m:84: warning: 'stringWithContentsOfURL:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:384)2(22@45"Initialization from incompatible pointer type329019986#120#124#0(6@64"/Developer/Projects/AudioDiner/Classes/EventInfoViewController.m321067268#42#0#42#0#45"initialization from incompatible pointer type0(22@208"'stringWithContentsOfURL:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:384)329019986#376#287#0(6@64"/Developer/Projects/AudioDiner/Classes/EventInfoViewController.m321067268#84#0#84#0#33"'*' is deprecated (declared at *)0(0#0#64"/Developer/Projects/AudioDiner/Classes/EventInfoViewController.m8752917728#1991"    cd /Developer/Projects/AudioDiner    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Developer/Projects/AudioDiner/build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/AudioDiner-generated-files.hmap -I/Developer/Projects/AudioDiner/build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/AudioDiner-own-target-headers.hmap -I/Developer/Projects/AudioDiner/build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/AudioDiner-all-target-headers.hmap -iquote /Developer/Projects/AudioDiner/build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/AudioDiner-project-headers.hmap -F/Developer/Projects/AudioDiner/build/Release-iphonesimulator -I/Developer/Projects/AudioDiner/build/Release-iphonesimulator/include -I/Developer/Projects/AudioDiner/build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/DerivedSources/i386 -I/Developer/Projects/AudioDiner/build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/XJ/XJjsEo29H04AWh2Xlu8Oo++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AudioDiner_Prefix-alvkdcwxfoigodbpyhtqjhewgjjy/AudioDiner_Prefix.pch -c /Developer/Projects/AudioDiner/Classes/EventInfoViewController.m -o /Developer/Projects/AudioDiner/build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/Objects-normal/i386/EventInfoViewController.o0#
+
+CCompileC build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/Objects-normal/i386/NSString+XMLExtensions.o /Developer/Projects/AudioDiner/NSString+XMLExtensions.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s329019985.491941
+e329019985.786033
+r1
+xCompileC
+xbuild/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/Objects-normal/i386/NSString+XMLExtensions.o
+x/Developer/Projects/AudioDiner/NSString+XMLExtensions.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@63"Compile /Developer/Projects/AudioDiner/NSString+XMLExtensions.m329019985#329019985#0(0"0(0#0#55"/Developer/Projects/AudioDiner/NSString+XMLExtensions.m8758074208#1981"    cd /Developer/Projects/AudioDiner    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Developer/Projects/AudioDiner/build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/AudioDiner-generated-files.hmap -I/Developer/Projects/AudioDiner/build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/AudioDiner-own-target-headers.hmap -I/Developer/Projects/AudioDiner/build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/AudioDiner-all-target-headers.hmap -iquote /Developer/Projects/AudioDiner/build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/AudioDiner-project-headers.hmap -F/Developer/Projects/AudioDiner/build/Release-iphonesimulator -I/Developer/Projects/AudioDiner/build/Release-iphonesimulator/include -I/Developer/Projects/AudioDiner/build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/DerivedSources/i386 -I/Developer/Projects/AudioDiner/build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/XJ/XJjsEo29H04AWh2Xlu8Oo++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AudioDiner_Prefix-alvkdcwxfoigodbpyhtqjhewgjjy/AudioDiner_Prefix.pch -c /Developer/Projects/AudioDiner/NSString+XMLExtensions.m -o /Developer/Projects/AudioDiner/build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/Objects-normal/i386/NSString+XMLExtensions.o0#
+
+CCompileC build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/Objects-normal/i386/PicNavController.o /Developer/Projects/AudioDiner/Classes/PicNavController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s329019986.596202
+e329019986.683116
+r1
+xCompileC
+xbuild/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/Objects-normal/i386/PicNavController.o
+x/Developer/Projects/AudioDiner/Classes/PicNavController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@65"Compile /Developer/Projects/AudioDiner/Classes/PicNavController.m329019986#329019986#0(0"0(0#0#57"/Developer/Projects/AudioDiner/Classes/PicNavController.m8754457920#1977"    cd /Developer/Projects/AudioDiner    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Developer/Projects/AudioDiner/build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/AudioDiner-generated-files.hmap -I/Developer/Projects/AudioDiner/build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/AudioDiner-own-target-headers.hmap -I/Developer/Projects/AudioDiner/build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/AudioDiner-all-target-headers.hmap -iquote /Developer/Projects/AudioDiner/build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/AudioDiner-project-headers.hmap -F/Developer/Projects/AudioDiner/build/Release-iphonesimulator -I/Developer/Projects/AudioDiner/build/Release-iphonesimulator/include -I/Developer/Projects/AudioDiner/build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/DerivedSources/i386 -I/Developer/Projects/AudioDiner/build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/XJ/XJjsEo29H04AWh2Xlu8Oo++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AudioDiner_Prefix-alvkdcwxfoigodbpyhtqjhewgjjy/AudioDiner_Prefix.pch -c /Developer/Projects/AudioDiner/Classes/PicNavController.m -o /Developer/Projects/AudioDiner/build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/Objects-normal/i386/PicNavController.o0#
+
+CCompileC build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/Objects-normal/i386/PicViewController.o /Developer/Projects/AudioDiner/Classes/PicViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s329019986.133354
+e329019986.449072
+r1
+xCompileC
+xbuild/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/Objects-normal/i386/PicViewController.o
+x/Developer/Projects/AudioDiner/Classes/PicViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@66"Compile /Developer/Projects/AudioDiner/Classes/PicViewController.m329019986#329019986#0(0"0(0#0#58"/Developer/Projects/AudioDiner/Classes/PicViewController.m8756267616#1979"    cd /Developer/Projects/AudioDiner    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Developer/Projects/AudioDiner/build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/AudioDiner-generated-files.hmap -I/Developer/Projects/AudioDiner/build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/AudioDiner-own-target-headers.hmap -I/Developer/Projects/AudioDiner/build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/AudioDiner-all-target-headers.hmap -iquote /Developer/Projects/AudioDiner/build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/AudioDiner-project-headers.hmap -F/Developer/Projects/AudioDiner/build/Release-iphonesimulator -I/Developer/Projects/AudioDiner/build/Release-iphonesimulator/include -I/Developer/Projects/AudioDiner/build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/DerivedSources/i386 -I/Developer/Projects/AudioDiner/build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/XJ/XJjsEo29H04AWh2Xlu8Oo++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AudioDiner_Prefix-alvkdcwxfoigodbpyhtqjhewgjjy/AudioDiner_Prefix.pch -c /Developer/Projects/AudioDiner/Classes/PicViewController.m -o /Developer/Projects/AudioDiner/build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/Objects-normal/i386/PicViewController.o0#
+
+CCompileC build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/Objects-normal/i386/ScheduleNavController.o /Developer/Projects/AudioDiner/Classes/ScheduleNavController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s329019986.262187
+e329019986.373629
+r1
+xCompileC
+xbuild/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/Objects-normal/i386/ScheduleNavController.o
+x/Developer/Projects/AudioDiner/Classes/ScheduleNavController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Developer/Projects/AudioDiner/Classes/ScheduleNavController.m329019986#329019986#0(0"0(0#0#62"/Developer/Projects/AudioDiner/Classes/ScheduleNavController.m8754810848#1987"    cd /Developer/Projects/AudioDiner    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Developer/Projects/AudioDiner/build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/AudioDiner-generated-files.hmap -I/Developer/Projects/AudioDiner/build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/AudioDiner-own-target-headers.hmap -I/Developer/Projects/AudioDiner/build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/AudioDiner-all-target-headers.hmap -iquote /Developer/Projects/AudioDiner/build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/AudioDiner-project-headers.hmap -F/Developer/Projects/AudioDiner/build/Release-iphonesimulator -I/Developer/Projects/AudioDiner/build/Release-iphonesimulator/include -I/Developer/Projects/AudioDiner/build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/DerivedSources/i386 -I/Developer/Projects/AudioDiner/build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/XJ/XJjsEo29H04AWh2Xlu8Oo++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AudioDiner_Prefix-alvkdcwxfoigodbpyhtqjhewgjjy/AudioDiner_Prefix.pch -c /Developer/Projects/AudioDiner/Classes/ScheduleNavController.m -o /Developer/Projects/AudioDiner/build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/Objects-normal/i386/ScheduleNavController.o0#
+
+CCompileC build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/Objects-normal/i386/StoredAudioController.o /Developer/Projects/AudioDiner/Classes/StoredAudioController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s329019986.449218
+e329019987.093579
+r1
+xCompileC
+xbuild/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/Objects-normal/i386/StoredAudioController.o
+x/Developer/Projects/AudioDiner/Classes/StoredAudioController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Developer/Projects/AudioDiner/Classes/StoredAudioController.m329019986#329019987#0(0"0(0#0#62"/Developer/Projects/AudioDiner/Classes/StoredAudioController.m8748521056#1987"    cd /Developer/Projects/AudioDiner    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Developer/Projects/AudioDiner/build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/AudioDiner-generated-files.hmap -I/Developer/Projects/AudioDiner/build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/AudioDiner-own-target-headers.hmap -I/Developer/Projects/AudioDiner/build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/AudioDiner-all-target-headers.hmap -iquote /Developer/Projects/AudioDiner/build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/AudioDiner-project-headers.hmap -F/Developer/Projects/AudioDiner/build/Release-iphonesimulator -I/Developer/Projects/AudioDiner/build/Release-iphonesimulator/include -I/Developer/Projects/AudioDiner/build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/DerivedSources/i386 -I/Developer/Projects/AudioDiner/build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/XJ/XJjsEo29H04AWh2Xlu8Oo++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AudioDiner_Prefix-alvkdcwxfoigodbpyhtqjhewgjjy/AudioDiner_Prefix.pch -c /Developer/Projects/AudioDiner/Classes/StoredAudioController.m -o /Developer/Projects/AudioDiner/build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/Objects-normal/i386/StoredAudioController.o0#
+
+CCompileC build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/Objects-normal/i386/XMLRPCConnection.o /Developer/Projects/AudioDiner/XMLRPCConnection.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s329019985.493687
+e329019985.786242
+r1
+xCompileC
+xbuild/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/Objects-normal/i386/XMLRPCConnection.o
+x/Developer/Projects/AudioDiner/XMLRPCConnection.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@57"Compile /Developer/Projects/AudioDiner/XMLRPCConnection.m329019985#329019985#0(0"0(0#0#49"/Developer/Projects/AudioDiner/XMLRPCConnection.m8753840800#1969"    cd /Developer/Projects/AudioDiner    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Developer/Projects/AudioDiner/build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/AudioDiner-generated-files.hmap -I/Developer/Projects/AudioDiner/build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/AudioDiner-own-target-headers.hmap -I/Developer/Projects/AudioDiner/build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/AudioDiner-all-target-headers.hmap -iquote /Developer/Projects/AudioDiner/build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/AudioDiner-project-headers.hmap -F/Developer/Projects/AudioDiner/build/Release-iphonesimulator -I/Developer/Projects/AudioDiner/build/Release-iphonesimulator/include -I/Developer/Projects/AudioDiner/build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/DerivedSources/i386 -I/Developer/Projects/AudioDiner/build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/XJ/XJjsEo29H04AWh2Xlu8Oo++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AudioDiner_Prefix-alvkdcwxfoigodbpyhtqjhewgjjy/AudioDiner_Prefix.pch -c /Developer/Projects/AudioDiner/XMLRPCConnection.m -o /Developer/Projects/AudioDiner/build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/Objects-normal/i386/XMLRPCConnection.o0#
+
+CCompileC build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/Objects-normal/i386/XMLRPCDecoder.o /Developer/Projects/AudioDiner/XMLRPCDecoder.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s329019985.786352
+e329019985.935840
+r1
+xCompileC
+xbuild/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/Objects-normal/i386/XMLRPCDecoder.o
+x/Developer/Projects/AudioDiner/XMLRPCDecoder.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@54"Compile /Developer/Projects/AudioDiner/XMLRPCDecoder.m329019985#329019985#0(0"0(0#0#46"/Developer/Projects/AudioDiner/XMLRPCDecoder.m8748188928#1963"    cd /Developer/Projects/AudioDiner    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Developer/Projects/AudioDiner/build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/AudioDiner-generated-files.hmap -I/Developer/Projects/AudioDiner/build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/AudioDiner-own-target-headers.hmap -I/Developer/Projects/AudioDiner/build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/AudioDiner-all-target-headers.hmap -iquote /Developer/Projects/AudioDiner/build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/AudioDiner-project-headers.hmap -F/Developer/Projects/AudioDiner/build/Release-iphonesimulator -I/Developer/Projects/AudioDiner/build/Release-iphonesimulator/include -I/Developer/Projects/AudioDiner/build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/DerivedSources/i386 -I/Developer/Projects/AudioDiner/build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/XJ/XJjsEo29H04AWh2Xlu8Oo++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AudioDiner_Prefix-alvkdcwxfoigodbpyhtqjhewgjjy/AudioDiner_Prefix.pch -c /Developer/Projects/AudioDiner/XMLRPCDecoder.m -o /Developer/Projects/AudioDiner/build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/Objects-normal/i386/XMLRPCDecoder.o0#
+
+CCompileC build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/Objects-normal/i386/XMLRPCEncoder.o /Developer/Projects/AudioDiner/XMLRPCEncoder.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s329019985.787667
+e329019986.041493
+r1
+xCompileC
+xbuild/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/Objects-normal/i386/XMLRPCEncoder.o
+x/Developer/Projects/AudioDiner/XMLRPCEncoder.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@54"Compile /Developer/Projects/AudioDiner/XMLRPCEncoder.m329019985#329019986#0(0"0(0#0#46"/Developer/Projects/AudioDiner/XMLRPCEncoder.m8651469280#1963"    cd /Developer/Projects/AudioDiner    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Developer/Projects/AudioDiner/build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/AudioDiner-generated-files.hmap -I/Developer/Projects/AudioDiner/build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/AudioDiner-own-target-headers.hmap -I/Developer/Projects/AudioDiner/build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/AudioDiner-all-target-headers.hmap -iquote /Developer/Projects/AudioDiner/build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/AudioDiner-project-headers.hmap -F/Developer/Projects/AudioDiner/build/Release-iphonesimulator -I/Developer/Projects/AudioDiner/build/Release-iphonesimulator/include -I/Developer/Projects/AudioDiner/build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/DerivedSources/i386 -I/Developer/Projects/AudioDiner/build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/XJ/XJjsEo29H04AWh2Xlu8Oo++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AudioDiner_Prefix-alvkdcwxfoigodbpyhtqjhewgjjy/AudioDiner_Prefix.pch -c /Developer/Projects/AudioDiner/XMLRPCEncoder.m -o /Developer/Projects/AudioDiner/build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/Objects-normal/i386/XMLRPCEncoder.o0#
+
+CCompileC build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/Objects-normal/i386/XMLRPCExtensions.o /Developer/Projects/AudioDiner/XMLRPCExtensions.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s329019985.788922
+e329019985.897753
+r1
+xCompileC
+xbuild/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/Objects-normal/i386/XMLRPCExtensions.o
+x/Developer/Projects/AudioDiner/XMLRPCExtensions.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@57"Compile /Developer/Projects/AudioDiner/XMLRPCExtensions.m329019985#329019985#0(0"0(0#0#49"/Developer/Projects/AudioDiner/XMLRPCExtensions.m8754982112#1969"    cd /Developer/Projects/AudioDiner    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Developer/Projects/AudioDiner/build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/AudioDiner-generated-files.hmap -I/Developer/Projects/AudioDiner/build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/AudioDiner-own-target-headers.hmap -I/Developer/Projects/AudioDiner/build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/AudioDiner-all-target-headers.hmap -iquote /Developer/Projects/AudioDiner/build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/AudioDiner-project-headers.hmap -F/Developer/Projects/AudioDiner/build/Release-iphonesimulator -I/Developer/Projects/AudioDiner/build/Release-iphonesimulator/include -I/Developer/Projects/AudioDiner/build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/DerivedSources/i386 -I/Developer/Projects/AudioDiner/build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/XJ/XJjsEo29H04AWh2Xlu8Oo++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AudioDiner_Prefix-alvkdcwxfoigodbpyhtqjhewgjjy/AudioDiner_Prefix.pch -c /Developer/Projects/AudioDiner/XMLRPCExtensions.m -o /Developer/Projects/AudioDiner/build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/Objects-normal/i386/XMLRPCExtensions.o0#
+
+CCompileC build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/Objects-normal/i386/XMLRPCRequest.o /Developer/Projects/AudioDiner/XMLRPCRequest.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s329019985.897888
+e329019986.128556
+r1
+xCompileC
+xbuild/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/Objects-normal/i386/XMLRPCRequest.o
+x/Developer/Projects/AudioDiner/XMLRPCRequest.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@54"Compile /Developer/Projects/AudioDiner/XMLRPCRequest.m329019985#329019986#0(0"0(0#0#46"/Developer/Projects/AudioDiner/XMLRPCRequest.m8753871840#1963"    cd /Developer/Projects/AudioDiner    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Developer/Projects/AudioDiner/build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/AudioDiner-generated-files.hmap -I/Developer/Projects/AudioDiner/build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/AudioDiner-own-target-headers.hmap -I/Developer/Projects/AudioDiner/build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/AudioDiner-all-target-headers.hmap -iquote /Developer/Projects/AudioDiner/build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/AudioDiner-project-headers.hmap -F/Developer/Projects/AudioDiner/build/Release-iphonesimulator -I/Developer/Projects/AudioDiner/build/Release-iphonesimulator/include -I/Developer/Projects/AudioDiner/build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/DerivedSources/i386 -I/Developer/Projects/AudioDiner/build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/XJ/XJjsEo29H04AWh2Xlu8Oo++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AudioDiner_Prefix-alvkdcwxfoigodbpyhtqjhewgjjy/AudioDiner_Prefix.pch -c /Developer/Projects/AudioDiner/XMLRPCRequest.m -o /Developer/Projects/AudioDiner/build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/Objects-normal/i386/XMLRPCRequest.o0#
+
+CCompileC build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/Objects-normal/i386/XMLRPCResponse.o /Developer/Projects/AudioDiner/XMLRPCResponse.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s329019985.935993
+e329019986.133222
+r1
+xCompileC
+xbuild/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/Objects-normal/i386/XMLRPCResponse.o
+x/Developer/Projects/AudioDiner/XMLRPCResponse.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@55"Compile /Developer/Projects/AudioDiner/XMLRPCResponse.m329019985#329019986#0(0"0(0#0#47"/Developer/Projects/AudioDiner/XMLRPCResponse.m8752924576#1965"    cd /Developer/Projects/AudioDiner    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Developer/Projects/AudioDiner/build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/AudioDiner-generated-files.hmap -I/Developer/Projects/AudioDiner/build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/AudioDiner-own-target-headers.hmap -I/Developer/Projects/AudioDiner/build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/AudioDiner-all-target-headers.hmap -iquote /Developer/Projects/AudioDiner/build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/AudioDiner-project-headers.hmap -F/Developer/Projects/AudioDiner/build/Release-iphonesimulator -I/Developer/Projects/AudioDiner/build/Release-iphonesimulator/include -I/Developer/Projects/AudioDiner/build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/DerivedSources/i386 -I/Developer/Projects/AudioDiner/build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/XJ/XJjsEo29H04AWh2Xlu8Oo++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AudioDiner_Prefix-alvkdcwxfoigodbpyhtqjhewgjjy/AudioDiner_Prefix.pch -c /Developer/Projects/AudioDiner/XMLRPCResponse.m -o /Developer/Projects/AudioDiner/build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/Objects-normal/i386/XMLRPCResponse.o0#
+
+CCompileC build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/Objects-normal/i386/XMLValueDecoder.o /Developer/Projects/AudioDiner/XMLValueDecoder.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s329019986.041617
+e329019986.293117
+r1
+xCompileC
+xbuild/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/Objects-normal/i386/XMLValueDecoder.o
+x/Developer/Projects/AudioDiner/XMLValueDecoder.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@56"Compile /Developer/Projects/AudioDiner/XMLValueDecoder.m329019986#329019986#0(0"0(0#0#48"/Developer/Projects/AudioDiner/XMLValueDecoder.m8752813120#1967"    cd /Developer/Projects/AudioDiner    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Developer/Projects/AudioDiner/build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/AudioDiner-generated-files.hmap -I/Developer/Projects/AudioDiner/build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/AudioDiner-own-target-headers.hmap -I/Developer/Projects/AudioDiner/build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/AudioDiner-all-target-headers.hmap -iquote /Developer/Projects/AudioDiner/build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/AudioDiner-project-headers.hmap -F/Developer/Projects/AudioDiner/build/Release-iphonesimulator -I/Developer/Projects/AudioDiner/build/Release-iphonesimulator/include -I/Developer/Projects/AudioDiner/build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/DerivedSources/i386 -I/Developer/Projects/AudioDiner/build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/XJ/XJjsEo29H04AWh2Xlu8Oo++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AudioDiner_Prefix-alvkdcwxfoigodbpyhtqjhewgjjy/AudioDiner_Prefix.pch -c /Developer/Projects/AudioDiner/XMLValueDecoder.m -o /Developer/Projects/AudioDiner/build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/Objects-normal/i386/XMLValueDecoder.o0#
+
+CCompileC build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/Objects-normal/i386/main.o /Developer/Projects/AudioDiner/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s329019985.489159
+e329019985.785783
+r1
+xCompileC
+xbuild/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/Objects-normal/i386/main.o
+x/Developer/Projects/AudioDiner/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@45"Compile /Developer/Projects/AudioDiner/main.m329019985#329019985#0(0"0(0#0#37"/Developer/Projects/AudioDiner/main.m8753623456#1945"    cd /Developer/Projects/AudioDiner    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Developer/Projects/AudioDiner/build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/AudioDiner-generated-files.hmap -I/Developer/Projects/AudioDiner/build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/AudioDiner-own-target-headers.hmap -I/Developer/Projects/AudioDiner/build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/AudioDiner-all-target-headers.hmap -iquote /Developer/Projects/AudioDiner/build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/AudioDiner-project-headers.hmap -F/Developer/Projects/AudioDiner/build/Release-iphonesimulator -I/Developer/Projects/AudioDiner/build/Release-iphonesimulator/include -I/Developer/Projects/AudioDiner/build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/DerivedSources/i386 -I/Developer/Projects/AudioDiner/build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/XJ/XJjsEo29H04AWh2Xlu8Oo++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AudioDiner_Prefix-alvkdcwxfoigodbpyhtqjhewgjjy/AudioDiner_Prefix.pch -c /Developer/Projects/AudioDiner/main.m -o /Developer/Projects/AudioDiner/build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Developer/Projects/AudioDiner/Classes/AudioDinerEventTableController.xib
+s328904529.096712
+e328904529.629324
+r1
+xCompileXIB
+x/Developer/Projects/AudioDiner/Classes/AudioDinerEventTableController.xib
+lSLF07#2@53"CompileXIB Classes/AudioDinerEventTableController.xib328904529#328904529#0(0"0(0#0#73"/Developer/Projects/AudioDiner/Classes/AudioDinerEventTableController.xib8676107968#599"    cd /Developer/Projects/AudioDiner    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Developer/Projects/AudioDiner/build/Release-iphonesimulator/AudioDiner.app/AudioDinerEventTableController.nib /Developer/Projects/AudioDiner/Classes/AudioDinerEventTableController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Developer/Projects/AudioDiner/Classes/AudioViewController.xib
+s328904530.161496
+e328904530.943505
+r1
+xCompileXIB
+x/Developer/Projects/AudioDiner/Classes/AudioViewController.xib
+lSLF07#2@42"CompileXIB Classes/AudioViewController.xib328904530#328904530#0(0"0(0#0#62"/Developer/Projects/AudioDiner/Classes/AudioViewController.xib8676650400#577"    cd /Developer/Projects/AudioDiner    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Developer/Projects/AudioDiner/build/Release-iphonesimulator/AudioDiner.app/AudioViewController.nib /Developer/Projects/AudioDiner/Classes/AudioViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Developer/Projects/AudioDiner/Classes/BigPicController.xib
+s328904530.809555
+e328904531.242756
+r1
+xCompileXIB
+x/Developer/Projects/AudioDiner/Classes/BigPicController.xib
+lSLF07#2@39"CompileXIB Classes/BigPicController.xib328904530#328904531#0(0"0(0#0#59"/Developer/Projects/AudioDiner/Classes/BigPicController.xib8677973632#571"    cd /Developer/Projects/AudioDiner    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Developer/Projects/AudioDiner/build/Release-iphonesimulator/AudioDiner.app/BigPicController.nib /Developer/Projects/AudioDiner/Classes/BigPicController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Developer/Projects/AudioDiner/Classes/EventInfoViewController.xib
+s328904530.156460
+e328904531.175142
+r1
+xCompileXIB
+x/Developer/Projects/AudioDiner/Classes/EventInfoViewController.xib
+lSLF07#2@46"CompileXIB Classes/EventInfoViewController.xib328904530#328904531#0(0"0(0#0#66"/Developer/Projects/AudioDiner/Classes/EventInfoViewController.xib8677006496#585"    cd /Developer/Projects/AudioDiner    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Developer/Projects/AudioDiner/build/Release-iphonesimulator/AudioDiner.app/EventInfoViewController.nib /Developer/Projects/AudioDiner/Classes/EventInfoViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Developer/Projects/AudioDiner/Classes/PicViewController.xib
+s328904529.752299
+e328904530.120883
+r1
+xCompileXIB
+x/Developer/Projects/AudioDiner/Classes/PicViewController.xib
+lSLF07#2@40"CompileXIB Classes/PicViewController.xib328904529#328904530#0(0"0(0#0#60"/Developer/Projects/AudioDiner/Classes/PicViewController.xib8678862624#573"    cd /Developer/Projects/AudioDiner    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Developer/Projects/AudioDiner/build/Release-iphonesimulator/AudioDiner.app/PicViewController.nib /Developer/Projects/AudioDiner/Classes/PicViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Developer/Projects/AudioDiner/Classes/StoredAudioController.xib
+s328904530.163844
+e328904530.807181
+r1
+xCompileXIB
+x/Developer/Projects/AudioDiner/Classes/StoredAudioController.xib
+lSLF07#2@44"CompileXIB Classes/StoredAudioController.xib328904530#328904530#0(0"0(0#0#64"/Developer/Projects/AudioDiner/Classes/StoredAudioController.xib8676072800#581"    cd /Developer/Projects/AudioDiner    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Developer/Projects/AudioDiner/build/Release-iphonesimulator/AudioDiner.app/StoredAudioController.nib /Developer/Projects/AudioDiner/Classes/StoredAudioController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Developer/Projects/AudioDiner/MainWindow.xib
+s328904529.015832
+e328904529.711487
+r1
+xCompileXIB
+x/Developer/Projects/AudioDiner/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib328904529#328904529#0(0"0(0#0#45"/Developer/Projects/AudioDiner/MainWindow.xib8672461024#551"    cd /Developer/Projects/AudioDiner    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Developer/Projects/AudioDiner/build/Release-iphonesimulator/AudioDiner.app/MainWindow.nib /Developer/Projects/AudioDiner/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Developer/Projects/AudioDiner/ScheduleNavController.xib
+s328904530.120091
+e328904530.700127
+r1
+xCompileXIB
+x/Developer/Projects/AudioDiner/ScheduleNavController.xib
+lSLF07#2@36"CompileXIB ScheduleNavController.xib328904530#328904530#0(0"0(0#0#56"/Developer/Projects/AudioDiner/ScheduleNavController.xib8677118560#573"    cd /Developer/Projects/AudioDiner    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Developer/Projects/AudioDiner/build/Release-iphonesimulator/AudioDiner.app/ScheduleNavController.nib /Developer/Projects/AudioDiner/ScheduleNavController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCpResource build/Release-iphonesimulator/AudioDiner.app/AlbumCover.jpg AlbumCover.jpg
+s328904529.016891
+e328904530.161027
+r1
+xCpResource
+xbuild/Release-iphonesimulator/AudioDiner.app/AlbumCover.jpg
+xAlbumCover.jpg
+lSLF07#2@19"Copy AlbumCover.jpg328904529#328904530#0(0"0(0#0#45"/Developer/Projects/AudioDiner/AlbumCover.jpg8672141056#474"    cd /Developer/Projects/AudioDiner    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Developer/Projects/AudioDiner/AlbumCover.jpg /Developer/Projects/AudioDiner/build/Release-iphonesimulator/AudioDiner.app0#
+
+CCpResource build/Release-iphonesimulator/AudioDiner.app/AlbumCover2.jpg AlbumCover2.jpg
+s328904529.017631
+e328904529.709679
+r1
+xCpResource
+xbuild/Release-iphonesimulator/AudioDiner.app/AlbumCover2.jpg
+xAlbumCover2.jpg
+lSLF07#2@20"Copy AlbumCover2.jpg328904529#328904529#0(0"0(0#0#46"/Developer/Projects/AudioDiner/AlbumCover2.jpg8639213184#475"    cd /Developer/Projects/AudioDiner    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Developer/Projects/AudioDiner/AlbumCover2.jpg /Developer/Projects/AudioDiner/build/Release-iphonesimulator/AudioDiner.app0#
+
+CCpResource build/Release-iphonesimulator/AudioDiner.app/Appetizer.jpg Appetizer.jpg
+s328904529.020013
+e328904530.118732
+r1
+xCpResource
+xbuild/Release-iphonesimulator/AudioDiner.app/Appetizer.jpg
+xAppetizer.jpg
+lSLF07#2@18"Copy Appetizer.jpg328904529#328904530#0(0"0(0#0#44"/Developer/Projects/AudioDiner/Appetizer.jpg8686031712#473"    cd /Developer/Projects/AudioDiner    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Developer/Projects/AudioDiner/Appetizer.jpg /Developer/Projects/AudioDiner/build/Release-iphonesimulator/AudioDiner.app0#
+
+CCpResource build/Release-iphonesimulator/AudioDiner.app/Carmel2007ThatsMyDad.jpg Carmel2007ThatsMyDad.jpg
+s328904530.118863
+e328904530.161275
+r1
+xCpResource
+xbuild/Release-iphonesimulator/AudioDiner.app/Carmel2007ThatsMyDad.jpg
+xCarmel2007ThatsMyDad.jpg
+lSLF07#2@29"Copy Carmel2007ThatsMyDad.jpg328904530#328904530#0(0"0(0#0#55"/Developer/Projects/AudioDiner/Carmel2007ThatsMyDad.jpg8677550496#484"    cd /Developer/Projects/AudioDiner    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Developer/Projects/AudioDiner/Carmel2007ThatsMyDad.jpg /Developer/Projects/AudioDiner/build/Release-iphonesimulator/AudioDiner.app0#
+
+CCpResource build/Release-iphonesimulator/AudioDiner.app/GoodbyeAgain.mp3 GoodbyeAgain.mp3
+s328904530.162675
+e328904531.459313
+r1
+xCpResource
+xbuild/Release-iphonesimulator/AudioDiner.app/GoodbyeAgain.mp3
+xGoodbyeAgain.mp3
+lSLF07#2@21"Copy GoodbyeAgain.mp3328904530#328904531#0(0"0(0#0#47"/Developer/Projects/AudioDiner/GoodbyeAgain.mp38676503456#476"    cd /Developer/Projects/AudioDiner    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Developer/Projects/AudioDiner/GoodbyeAgain.mp3 /Developer/Projects/AudioDiner/build/Release-iphonesimulator/AudioDiner.app0#
+
+CCpResource build/Release-iphonesimulator/AudioDiner.app/Logo.jpg /Users/kevin/AudioDiner/Logo.jpg
+s328904529.021732
+e328904529.752216
+r1
+xCpResource
+xbuild/Release-iphonesimulator/AudioDiner.app/Logo.jpg
+x/Users/kevin/AudioDiner/Logo.jpg
+lSLF07#2@37"Copy /Users/kevin/AudioDiner/Logo.jpg328904529#328904529#0(0"0(0#0#32"/Users/kevin/AudioDiner/Logo.jpg8679214112#461"    cd /Developer/Projects/AudioDiner    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/kevin/AudioDiner/Logo.jpg /Developer/Projects/AudioDiner/build/Release-iphonesimulator/AudioDiner.app0#
+
+CCpResource build/Release-iphonesimulator/AudioDiner.app/LogoSmall.jpg /Users/kevin/AudioDiner/LogoSmall.jpg
+s328904529.022553
+e328904529.278405
+r1
+xCpResource
+xbuild/Release-iphonesimulator/AudioDiner.app/LogoSmall.jpg
+x/Users/kevin/AudioDiner/LogoSmall.jpg
+lSLF07#2@42"Copy /Users/kevin/AudioDiner/LogoSmall.jpg328904529#328904529#0(0"0(0#0#37"/Users/kevin/AudioDiner/LogoSmall.jpg8678438112#466"    cd /Developer/Projects/AudioDiner    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/kevin/AudioDiner/LogoSmall.jpg /Developer/Projects/AudioDiner/build/Release-iphonesimulator/AudioDiner.app0#
+
+CCpResource build/Release-iphonesimulator/AudioDiner.app/Note.jpg Note.jpg
+s328904529.023420
+e328904529.200926
+r1
+xCpResource
+xbuild/Release-iphonesimulator/AudioDiner.app/Note.jpg
+xNote.jpg
+lSLF07#2@13"Copy Note.jpg328904529#328904529#0(0"0(0#0#39"/Developer/Projects/AudioDiner/Note.jpg8677110080#468"    cd /Developer/Projects/AudioDiner    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Developer/Projects/AudioDiner/Note.jpg /Developer/Projects/AudioDiner/build/Release-iphonesimulator/AudioDiner.app0#
+
+CCpResource build/Release-iphonesimulator/AudioDiner.app/Note2.jpg Note2.jpg
+s328904529.024256
+e328904529.096453
+r1
+xCpResource
+xbuild/Release-iphonesimulator/AudioDiner.app/Note2.jpg
+xNote2.jpg
+lSLF07#2@14"Copy Note2.jpg328904529#328904529#0(0"0(0#0#40"/Developer/Projects/AudioDiner/Note2.jpg8676857984#469"    cd /Developer/Projects/AudioDiner    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Developer/Projects/AudioDiner/Note2.jpg /Developer/Projects/AudioDiner/build/Release-iphonesimulator/AudioDiner.app0#
+
+CCpResource build/Release-iphonesimulator/AudioDiner.app/Note3.jpg Note3.jpg
+s328904529.025178
+e328904529.096640
+r1
+xCpResource
+xbuild/Release-iphonesimulator/AudioDiner.app/Note3.jpg
+xNote3.jpg
+lSLF07#2@14"Copy Note3.jpg328904529#328904529#0(0"0(0#0#40"/Developer/Projects/AudioDiner/Note3.jpg8676566496#469"    cd /Developer/Projects/AudioDiner    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Developer/Projects/AudioDiner/Note3.jpg /Developer/Projects/AudioDiner/build/Release-iphonesimulator/AudioDiner.app0#
+
+CCpResource build/Release-iphonesimulator/AudioDiner.app/NukeTheWhales.mp3 NukeTheWhales.mp3
+s328904530.808472
+e328904531.579073
+r1
+xCpResource
+xbuild/Release-iphonesimulator/AudioDiner.app/NukeTheWhales.mp3
+xNukeTheWhales.mp3
+lSLF07#2@22"Copy NukeTheWhales.mp3328904530#328904531#0(0"0(0#0#48"/Developer/Projects/AudioDiner/NukeTheWhales.mp38678766720#477"    cd /Developer/Projects/AudioDiner    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Developer/Projects/AudioDiner/NukeTheWhales.mp3 /Developer/Projects/AudioDiner/build/Release-iphonesimulator/AudioDiner.app0#
+
+CCpResource build/Release-iphonesimulator/AudioDiner.app/RecordPlayer.png RecordPlayer.png
+s328904530.807311
+e328904531.023521
+r1
+xCpResource
+xbuild/Release-iphonesimulator/AudioDiner.app/RecordPlayer.png
+xRecordPlayer.png
+lSLF07#2@21"Copy RecordPlayer.png328904530#328904531#0(0"0(0#0#47"/Developer/Projects/AudioDiner/RecordPlayer.png8679141920#476"    cd /Developer/Projects/AudioDiner    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Developer/Projects/AudioDiner/RecordPlayer.png /Developer/Projects/AudioDiner/build/Release-iphonesimulator/AudioDiner.app0#
+
+CCpResource build/Release-iphonesimulator/AudioDiner.app/iPhoneIcon.jpg /Users/kevin/AudioDiner/iPhoneIcon.jpg
+s328904529.020940
+e328904530.156141
+r1
+xCpResource
+xbuild/Release-iphonesimulator/AudioDiner.app/iPhoneIcon.jpg
+x/Users/kevin/AudioDiner/iPhoneIcon.jpg
+lSLF07#2@43"Copy /Users/kevin/AudioDiner/iPhoneIcon.jpg328904529#328904530#0(0"0(0#0#38"/Users/kevin/AudioDiner/iPhoneIcon.jpg8679314944#467"    cd /Developer/Projects/AudioDiner    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/kevin/AudioDiner/iPhoneIcon.jpg /Developer/Projects/AudioDiner/build/Release-iphonesimulator/AudioDiner.app0#
+
+CGenerateDSYMFile /Developer/Projects/AudioDiner/build/Release-iphonesimulator/AudioDiner.app.dSYM /Developer/Projects/AudioDiner/build/Release-iphonesimulator/AudioDiner.app/AudioDiner
+s329019987.535495
+e329019987.673779
+r1
+xGenerateDSYMFile
+x/Developer/Projects/AudioDiner/build/Release-iphonesimulator/AudioDiner.app.dSYM
+x/Developer/Projects/AudioDiner/build/Release-iphonesimulator/AudioDiner.app/AudioDiner
+lSLF07#2@122"GenerateDSYMFile build/Release-iphonesimulator/AudioDiner.app.dSYM build/Release-iphonesimulator/AudioDiner.app/AudioDiner329019987#329019987#0(0"0(0#0#86"/Developer/Projects/AudioDiner/build/Release-iphonesimulator/AudioDiner.app/AudioDiner8752700288#372"    cd /Developer/Projects/AudioDiner    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Developer/Projects/AudioDiner/build/Release-iphonesimulator/AudioDiner.app/AudioDiner -o /Developer/Projects/AudioDiner/build/Release-iphonesimulator/AudioDiner.app.dSYM0#
+
+CLd /Developer/Projects/AudioDiner/build/Release-iphonesimulator/AudioDiner.app/AudioDiner normal i386
+s329019987.142805
+e329019987.535395
+r1
+xLd
+x/Developer/Projects/AudioDiner/build/Release-iphonesimulator/AudioDiner.app/AudioDiner
+xnormal
+xi386
+lSLF07#2@91"Link /Developer/Projects/AudioDiner/build/Release-iphonesimulator/AudioDiner.app/AudioDiner329019987#329019987#0(0"0(0#0#0"8756201280#925"    cd /Developer/Projects/AudioDiner    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Developer/Projects/AudioDiner/build/Release-iphonesimulator -F/Developer/Projects/AudioDiner/build/Release-iphonesimulator -filelist /Developer/Projects/AudioDiner/build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/Objects-normal/i386/AudioDiner.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework MapKit -framework AVFoundation -o /Developer/Projects/AudioDiner/build/Release-iphonesimulator/AudioDiner.app/AudioDiner0#
+
+CProcessInfoPlistFile /Developer/Projects/AudioDiner/build/Release-iphonesimulator/AudioDiner.app/Info.plist AudioDiner-Info.plist
+s328904528.972408
+e328904529.015697
+r1
+xProcessInfoPlistFile
+x/Developer/Projects/AudioDiner/build/Release-iphonesimulator/AudioDiner.app/Info.plist
+xAudioDiner-Info.plist
+lSLF07#2@29"Process AudioDiner-Info.plist328904528#328904529#0(0"0(0#0#52"/Developer/Projects/AudioDiner/AudioDiner-Info.plist8674117824#468"    cd /Developer/Projects/AudioDiner    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility AudioDiner-Info.plist -genpkginfo /Developer/Projects/AudioDiner/build/Release-iphonesimulator/AudioDiner.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Developer/Projects/AudioDiner/build/Release-iphonesimulator/AudioDiner.app/Info.plist0#
+
+CProcessPCH /var/folders/XJ/XJjsEo29H04AWh2Xlu8Oo++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AudioDiner_Prefix-alvkdcwxfoigodbpyhtqjhewgjjy/AudioDiner_Prefix.pch.gch AudioDiner_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s329019982.413878
+e329019985.488739
+r1
+xProcessPCH
+x/var/folders/XJ/XJjsEo29H04AWh2Xlu8Oo++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AudioDiner_Prefix-alvkdcwxfoigodbpyhtqjhewgjjy/AudioDiner_Prefix.pch.gch
+xAudioDiner_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@32"Precompile AudioDiner_Prefix.pch329019982#329019985#0(0"0(0#0#52"/Developer/Projects/AudioDiner/AudioDiner_Prefix.pch8750153216#1840"    cd /Developer/Projects/AudioDiner    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Developer/Projects/AudioDiner/build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/AudioDiner-generated-files.hmap -I/Developer/Projects/AudioDiner/build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/AudioDiner-own-target-headers.hmap -I/Developer/Projects/AudioDiner/build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/AudioDiner-all-target-headers.hmap -iquote /Developer/Projects/AudioDiner/build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/AudioDiner-project-headers.hmap -F/Developer/Projects/AudioDiner/build/Release-iphonesimulator -I/Developer/Projects/AudioDiner/build/Release-iphonesimulator/include -I/Developer/Projects/AudioDiner/build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/DerivedSources/i386 -I/Developer/Projects/AudioDiner/build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -c /Developer/Projects/AudioDiner/AudioDiner_Prefix.pch -o /var/folders/XJ/XJjsEo29H04AWh2Xlu8Oo++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AudioDiner_Prefix-alvkdcwxfoigodbpyhtqjhewgjjy/AudioDiner_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/XJ/XJjsEo29H04AWh2Xlu8Oo++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AudioDiner_Prefix-arwzgfvtnhbhneeyzyyzcfczbyxk/AudioDiner_Prefix.pch.gch AudioDiner_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s328904531.579198
+e328904533.089591
+r1
+xProcessPCH
+x/var/folders/XJ/XJjsEo29H04AWh2Xlu8Oo++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AudioDiner_Prefix-arwzgfvtnhbhneeyzyyzcfczbyxk/AudioDiner_Prefix.pch.gch
+xAudioDiner_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@32"Precompile AudioDiner_Prefix.pch328904531#328904533#0(0"0(0#0#52"/Developer/Projects/AudioDiner/AudioDiner_Prefix.pch8677963200#2123"    cd /Developer/Projects/AudioDiner    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Developer/Projects/AudioDiner/build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/AudioDiner-generated-files.hmap -I/Developer/Projects/AudioDiner/build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/AudioDiner-own-target-headers.hmap -I/Developer/Projects/AudioDiner/build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/AudioDiner-all-target-headers.hmap -iquote /Developer/Projects/AudioDiner/build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/AudioDiner-project-headers.hmap -F/Developer/Projects/AudioDiner/build/Release-iphonesimulator -F/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/AVFoundation.framework -F/Developer/Projects/AudioDiner -I/Developer/Projects/AudioDiner/build/Release-iphonesimulator/include -I/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/AVFoundation.framework/Headers -I/Developer/Projects/AudioDiner/build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/DerivedSources/i386 -I/Developer/Projects/AudioDiner/build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -c /Developer/Projects/AudioDiner/AudioDiner_Prefix.pch -o /var/folders/XJ/XJjsEo29H04AWh2Xlu8Oo++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AudioDiner_Prefix-arwzgfvtnhbhneeyzyyzcfczbyxk/AudioDiner_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/XJ/XJjsEo29H04AWh2Xlu8Oo++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AudioDiner_Prefix-bcyeaegujcbeqlbvjhbkwoikfpyq/AudioDiner_Prefix.pch.gch AudioDiner_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/XJ/XJjsEo29H04AWh2Xlu8Oo++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AudioDiner_Prefix-cztafeactnozmrbdkqfotwhplalo/AudioDiner_Prefix.pch.gch AudioDiner_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s328904905.919301
+e328904907.426326
+r1
+xProcessPCH
+x/var/folders/XJ/XJjsEo29H04AWh2Xlu8Oo++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AudioDiner_Prefix-cztafeactnozmrbdkqfotwhplalo/AudioDiner_Prefix.pch.gch
+xAudioDiner_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@32"Precompile AudioDiner_Prefix.pch328904905#328904907#0(0"0(0#0#52"/Developer/Projects/AudioDiner/AudioDiner_Prefix.pch8679735872#2164"    cd /Developer/Projects/AudioDiner    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Developer/Projects/AudioDiner/build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/AudioDiner-generated-files.hmap -I/Developer/Projects/AudioDiner/build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/AudioDiner-own-target-headers.hmap -I/Developer/Projects/AudioDiner/build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/AudioDiner-all-target-headers.hmap -iquote /Developer/Projects/AudioDiner/build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/AudioDiner-project-headers.hmap -F/Developer/Projects/AudioDiner/build/Release-iphonesimulator -F/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/AVFoundation.framework -F/Developer/Projects/AudioDiner -F/Developer/Projects/AudioDiner/Classes -I/Developer/Projects/AudioDiner/build/Release-iphonesimulator/include -I/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/AVFoundation.framework/Headers -I/Developer/Projects/AudioDiner/build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/DerivedSources/i386 -I/Developer/Projects/AudioDiner/build/AudioDiner.build/Release-iphonesimulator/AudioDiner.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -c /Developer/Projects/AudioDiner/AudioDiner_Prefix.pch -o /var/folders/XJ/XJjsEo29H04AWh2Xlu8Oo++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AudioDiner_Prefix-cztafeactnozmrbdkqfotwhplalo/AudioDiner_Prefix.pch.gch0#
+
+CTouch /Developer/Projects/AudioDiner/build/Release-iphonesimulator/AudioDiner.app
+s329019987.673883
+e329019987.676780
+r1
+xTouch
+x/Developer/Projects/AudioDiner/build/Release-iphonesimulator/AudioDiner.app
+lSLF07#2@81"Touch /Developer/Projects/AudioDiner/build/Release-iphonesimulator/AudioDiner.app329019987#329019987#0(0"0(0#0#0"8748670528#267"    cd /Developer/Projects/AudioDiner    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Developer/Projects/AudioDiner/build/Release-iphonesimulator/AudioDiner.app0#
+
